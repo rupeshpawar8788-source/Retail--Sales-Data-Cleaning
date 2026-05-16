@@ -1,0 +1,8 @@
+Transaction_ID,Store_Location,Product_Name,Item_Price,Items_Units,Total_Revenue
+5001,Pune,Laptop,65000.0,1,65000.0
+5002,Pune,Mouse,1500.0,3,4500.0
+5003,Mumbai,Laptop,62000.0,1,62000.0
+5004,Mumbai,Keyboard,2500.0,2,5000.0
+5005,Bangalore,Mouse,1800.0,5,9000.0
+5006,Online,Monitor,15000.0,1,15000.0
+5007,Pune,Keyboard,2200.0,2,4400.0
